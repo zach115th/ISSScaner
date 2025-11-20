@@ -1,7 +1,3 @@
-Here’s a README you can drop straight into `README.md` for this script. You can tweak the repo name / author bits as you like.
-
----
-
 # IIS Web Attack Log Scanner
 
 PowerShell 7 script to recursively scan IIS logs for signs of:
