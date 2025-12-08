@@ -240,17 +240,3 @@ Potential future enhancements:
 * Optional integration with a SIEM / log indexer
 
 ---
-
-## License
-
-Add a license of your choice (for example, MIT):
-
-```text
-MIT License
-
-Copyright (c) ....
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-```
-
-*(Or remove this section if you prefer to keep it private.)*
